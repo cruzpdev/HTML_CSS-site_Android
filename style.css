@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(144, 238, 185);
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: rgba(10, 50, 63, 0.472);
+}
+main{
+    background-color: aliceblue;
+}
+main>article{
+    background-color: rgb(26, 61, 92);
+}
+aside{
+    background-color: aqua;
+}
+footer{
+    background-color: rgba(10, 50, 63, 0.472) ;
+}
